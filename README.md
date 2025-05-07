@@ -38,7 +38,7 @@
 email:wessinnassim@gmail.com
 cel:809-769-1130
 - [LinkedIn](https://www.linkedin.com/in/nassim-wessin-03666b18a)
-- Portafolio (próximamente...)
+- Portafolio en proceso de creación:https://nass90100.github.io/nassimwessin.github.io/
 
 ---
 
