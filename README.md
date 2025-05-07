@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Nassim
 
-🎯 Desarrollador Web Full Stack con enfoque en **backend**, especializado en **NestJS**, **PostgreSQL** y **TypeORM junto a otras tecnologías del ecosistema web.**.
+🎯 Desarrollador Web Full Stack junior con enfoque en **backend**, especializado en **NestJS**, **PostgreSQL** y **TypeORM junto a otras tecnologías del ecosistema web.**.
 
 ---
 
@@ -35,7 +35,8 @@
 ---
 
 ## 📫 Contacto
-
+email:wessinnassim@gmail.com
+cel:809-769-1130
 - [LinkedIn](https://www.linkedin.com/in/nassim-wessin-03666b18a)
 - Portafolio (próximamente...)
 
