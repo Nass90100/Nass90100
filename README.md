@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Nassim
 
-🎯 Desarrollador Web Full Stack junior con enfoque en **backend**, especializado en **NestJS**, **PostgreSQL** y **TypeORM junto a otras tecnologías del ecosistema web.**.
+🎯 Desarrollador Web Full Stack con enfoque en **backend**, especializado en **NestJS**, **PostgreSQL** y **TypeORM junto a otras tecnologías del ecosistema web.**.
 
 ---
 
