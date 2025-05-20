@@ -37,7 +37,7 @@
 ## 📫 Contacto
 email:wessinnassim@gmail.com
 cel:809-769-1130
-- [LinkedIn](https://www.linkedin.com/in/nassim-wessin-03666b18a)
+- [LinkedIn]([https://www.linkedin.com/in/nassim-wessin-03666b18a](https://www.linkedin.com/in/nassim-wessin-03666b18a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 - Portafolio en proceso de creación:https://nass90100.github.io/nassimwessin.github.io/
 
 ---
